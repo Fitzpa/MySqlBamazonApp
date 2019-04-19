@@ -62,4 +62,6 @@ VALUES ("Playstation 4 Pro", "Video Games", 359.00, 20000);
 #Next make sure the *port* in the *bamazonCustomer.js* and *bamazonManager.js* files is the same as the port you connected with MAMP.
 if you can make this any cleaner or add any future features go ahead!
 
+Link to video of me demoing the app: https://drive.google.com/file/d/14BF3-iTdoTCSYhn-hNuNb3KXrtzeFomc/view?usp=sharing
+
 Louie Fitzpatrick *Fitzpa* is the original contributer and maintains this project.
